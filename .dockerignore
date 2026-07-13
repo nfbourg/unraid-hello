@@ -1,0 +1,5 @@
+# Keep the build context minimal -- only server.py is needed in the image.
+deploy.yaml
+*.md
+__pycache__/
+*.pyc
